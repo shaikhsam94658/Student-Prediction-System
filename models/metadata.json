@@ -1,0 +1,118 @@
+{
+  "numeric": {
+    "Hours_Studied": {
+      "min": 1.0,
+      "max": 44.0,
+      "median": 20.0
+    },
+    "Attendance": {
+      "min": 60.0,
+      "max": 100.0,
+      "median": 80.0
+    },
+    "Sleep_Hours": {
+      "min": 4.0,
+      "max": 10.0,
+      "median": 7.0
+    },
+    "Previous_Scores": {
+      "min": 50.0,
+      "max": 100.0,
+      "median": 75.0
+    },
+    "Tutoring_Sessions": {
+      "min": 0.0,
+      "max": 8.0,
+      "median": 1.0
+    },
+    "Physical_Activity": {
+      "min": 0.0,
+      "max": 6.0,
+      "median": 3.0
+    }
+  },
+  "categorical": {
+    "Parental_Involvement": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "Access_to_Resources": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "Extracurricular_Activities": [
+      "No",
+      "Yes"
+    ],
+    "Motivation_Level": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "Internet_Access": [
+      "No",
+      "Yes"
+    ],
+    "Family_Income": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "Teacher_Quality": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "School_Type": [
+      "Private",
+      "Public"
+    ],
+    "Peer_Influence": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ],
+    "Learning_Disabilities": [
+      "No",
+      "Yes"
+    ],
+    "Parental_Education_Level": [
+      "College",
+      "High School",
+      "Postgraduate"
+    ],
+    "Distance_from_Home": [
+      "Far",
+      "Moderate",
+      "Near"
+    ],
+    "Gender": [
+      "Female",
+      "Male"
+    ]
+  },
+  "columns": [
+    "Hours_Studied",
+    "Attendance",
+    "Parental_Involvement",
+    "Access_to_Resources",
+    "Extracurricular_Activities",
+    "Sleep_Hours",
+    "Previous_Scores",
+    "Motivation_Level",
+    "Internet_Access",
+    "Tutoring_Sessions",
+    "Family_Income",
+    "Teacher_Quality",
+    "School_Type",
+    "Peer_Influence",
+    "Physical_Activity",
+    "Learning_Disabilities",
+    "Parental_Education_Level",
+    "Distance_from_Home",
+    "Gender"
+  ],
+  "at_risk_threshold": 65
+}

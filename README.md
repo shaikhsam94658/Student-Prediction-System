@@ -68,11 +68,11 @@ Teachers can help students best when they know **early** who is likely to strugg
 
 | 1. Profile | 2. Study habits |
 |---|---|
-| ![Profile step](assets/app_profile.png) | ![Study step](assets/app_study.png) |
+| ![Main Page](assets/main.png) | ![analysis](assets/analysis.png) |
 
 | 3. Review | 4. Result |
 |---|---|
-| ![Review step](assets/app_review.png) | ![Result](assets/app_result.png) |
+| ![Resource ](assets/resource.png) | ![Result](assets/aresult.png) |
 
 ---
 
